@@ -39,7 +39,7 @@ week_numberint18
 The final regular season week to scrape (e.g., 18).seasonstr'2024'The year for which data is being scraped.
 Running the ScraperExecute the main function:Python# In your main Python script (e.g., main.py)
 run_team_injury_reports()
-OutputThe final consolidated report will be saved to the following path (customize this path in your code as needed):C:/Users/sarae/Documents/NFL_Modeling/[SEASON]/Teams/all_team_inj_report.csv
+OutputThe final consolidated report will need to be customized
 📂 Project Structure (Simplified)/
 ├── README.md               # This file
 ├── injury_scraper.py       # Contains get_team_injury_report() and run_team_injury_reports()
